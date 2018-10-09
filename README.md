@@ -1,6 +1,6 @@
-###################################################################################################################################
+##################################################################################################################
 
-This project is still under progress. Any suugestions are welcome.
+This project is still under progress. Any suggestions are welcome.
 
 
 Meta Learning Shared Hierarchies in PyTorch
